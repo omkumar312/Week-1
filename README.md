@@ -1,0 +1,2 @@
+# Week-1
+A smart Environmental Monitoring and Pollution Control system using IoT sensors to track air, water, and soil quality. Provides real-time data, alerts, and dashboards for pollution trends. Helps in early detection of harmful pollutants, supporting sustainable urban, industrial, and ecological management.
